@@ -1,0 +1,8 @@
+https://towardsdatascience.com/how-to-do-text-binary-classification-with-bert-f1348a25d905
+https://github.com/wshuyi/demo-text-binary-classification-with-bert/blob/master/bert_text_classification.ipynb
+
+https://towardsdatascience.com/bert-text-classification-in-3-lines-of-code-using-keras-264db7e7a358
+
+https://blog.ekbana.com/fine-tuning-bert-for-text-classification-20news-group-classification-53a55dc09738
+
+https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/
