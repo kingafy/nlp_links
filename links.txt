@@ -6,3 +6,22 @@ https://towardsdatascience.com/bert-text-classification-in-3-lines-of-code-using
 https://blog.ekbana.com/fine-tuning-bert-for-text-classification-20news-group-classification-53a55dc09738
 
 https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/
+https://github.com/hb20007/hands-on-nltk-tutorial
+
+https://github.com/ines/spacy-course
+
+https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/
+
+https://medium.com/@glmack/patent-language-processing-fc99b57c0cd5
+
+http://www.academia.edu/Documents/in/Natural_Language_Processing
+
+https://github.com/google-research/bert
+https://github.com/facebookresearch/SentEval/tree/master/data/probing
+
+https://github.com/llhthinker/NLP-Papers
+https://github.com/mhagiwara/100-nlp-papers
+https://github.com/astorfi/Deep-Learning-NLP
+https://paperswithcode.com/
+
+https://fasttext.cc/docs/en/english-vectors.html
