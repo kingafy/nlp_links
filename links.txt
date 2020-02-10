@@ -27,6 +27,10 @@ https://paperswithcode.com/
 https://fasttext.cc/docs/en/english-vectors.html
 
 
+https://github.com/binoydutt/Resume-Job-Description-Matching/blob/master/step2_getresume.py
+https://medium.com/@everisBrasil/using-machine-learning-to-retrieve-relevant-cvs-based-on-job-description-57fc31623845
+https://www.sciencedirect.com/science/article/pii/S0885230817302851
+https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/
 
 
 
